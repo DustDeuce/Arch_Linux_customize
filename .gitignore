@@ -1,0 +1,25 @@
+# System files
+*.~
+*.swp
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Kash
+.cache/
+
+# Passwords/Keys
+*.key
+*.pem
+*secret*
+*password*
+*credential*
+
+# Bin files
+*.bin
+*.so
+
+# Time files Hyprland
+hyprland.conf.bak
