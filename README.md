@@ -8,3 +8,7 @@
 - **Editor** ???
 
 ## 📁 Configuration Struct
+
+## Download packages
+- **Waybar**
+- command: sudo pacman -S waybar
