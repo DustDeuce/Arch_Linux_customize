@@ -31,6 +31,8 @@
 - **Rofi** (Поисковая утилита)
 - команда: sudo pacman -S rofi
 - команда AUR: yay -S rofi
+- **audacious** (Поисковая утилита)
+- команда: sudo pacman -S audacious
 - **Hyprlok** (Утилита для блокировки акка)
 - команда:
 - команда AUR: yay -S hyprlok
