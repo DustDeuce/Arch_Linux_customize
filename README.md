@@ -45,6 +45,9 @@
 - **Hyprshot** (Утилита для работы со скриншотами)
 - команда:
 - команда AUR: yay -S hyprshot
+- **Grimblast** (Еще одна утилита для работы со скриншотами, лучше использовать ее)
+- команда: sudo pacman -S grimblast
+- команда AUR:
 - **Nwg-dock-hyprland** (Утилита для отображения запущеных приложений)
 - команда: sudo pacman -S nwg-dock-hyprland
 - команда AUR: yay -S nwg-dock-hyprland
