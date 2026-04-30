@@ -51,6 +51,8 @@
 - **Nwg-dock-hyprland** (Утилита для отображения запущеных приложений)
 - команда: sudo pacman -S nwg-dock-hyprland
 - команда AUR: yay -S nwg-dock-hyprland
+- **awww** (Утилита для отображения картинок на раб. столе)
+- команда: sudo pacman awww
 
 
 ## Полезные приложения
