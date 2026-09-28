@@ -1,0 +1,13 @@
+--####################
+--#    ANIMATIONS    #
+--####################
+
+--animations{
+--    #enable=true
+--    #fade_in=200
+--    #fade_out=200
+--    #move=200
+--    #resize=200
+--    #switch_workspace=200
+--    #switch_window=200
+--}
